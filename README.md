@@ -25,12 +25,13 @@
 
 ## 🎬 Demo Aplikasi
 
-> 📹 **Video Demo:** [Link Video Demo Aplikasi](https://youtube.com/your-video-link)
+> 📹 **Video Demo:** 
 
-### Screenshot Aplikasi
 
-<details>
-<summary>📱 Klik untuk melihat screenshot</summary>
+https://github.com/user-attachments/assets/8127627f-14f2-4c75-be6b-f51648800de0
+
+
+
 
 | Splash Screen | Login | Register |
 |:-------------:|:-----:|:--------:|
@@ -421,6 +422,6 @@ dependencies:
 
 **Made with ❤️ by Aisyah Syifa Karima**
 
-*Responsi 2 Pemrograman Mobile - 2024*
+*Responsi 2 Pemrograman Mobile - 2025*
 
 </div>
